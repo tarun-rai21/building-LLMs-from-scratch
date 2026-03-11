@@ -106,7 +106,7 @@ print(ids)
 
 decoded = tokenizer.decode(ids)
 print(decoded)
-
+```
 ## Why Build LLM Components From Scratch?
 
 Understanding how LLMs work internally requires knowledge of several components:
@@ -193,3 +193,4 @@ Some resources that inspired this project:
 ---
 
 ⭐ If you find this project useful, consider starring the repository.
+
